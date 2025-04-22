@@ -2,9 +2,11 @@
   "name": "graphics-back",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
-    "dev": "nodemon src/app.js"
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js",
+    "build": "rimraf dist && mkdir -p dist && cp -r src package.json package-lock.json dist/ || (if not exist dist mkdir dist && xcopy /E /I src dist\\src && copy package.json dist\\ && copy package-lock.json dist\\)"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +17,7 @@
     "express": "^5.1.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "rimraf": "^5.0.10"
   }
 }

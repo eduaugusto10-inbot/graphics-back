@@ -1,0 +1,25 @@
+# Diretórios
+node_modules/
+dist/
+build/
+.vscode/
+.idea/
+coverage/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos específicos do ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Sistema operacional
+.DS_Store
+Thumbs.db 
