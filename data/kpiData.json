@@ -1,0 +1,568 @@
+{
+  "jornadas": [
+    [
+      {
+        "name": "inicio_de_jornada",
+        "value": 2909
+      },
+      {
+        "name": "maior_de_idade",
+        "value": 2481
+      },
+      {
+        "name": "nome_agendamento",
+        "value": 1812
+      },
+      {
+        "name": "Pergunta se é cliente",
+        "value": 1789
+      },
+      {
+        "name": "telefone_agendamento",
+        "value": 3160
+      },
+      {
+        "name": "unidade_nome_e_id",
+        "value": 1328
+      },
+      {
+        "name": "api_lead",
+        "value": 1350
+      },
+      {
+        "name": "Passo 11 - Agendamentos - Seleciona Queixa",
+        "value": 1258
+      },
+      {
+        "name": "Agendamento - Horário Encontrado",
+        "value": 1092
+      },
+      {
+        "name": "agendamento_realizado",
+        "value": 767
+      },
+      {
+        "name": "final_de_jornada",
+        "value": 767
+      },
+      {
+        "name": "Passo 13 - Agendamento - Resumo do Agendamento",
+        "value": 1023
+      }
+    ]
+  ],
+  "details": [
+    {
+      "name": "inicio_de_jornada",
+      "values": [
+        {
+          "name": "Início de jornada",
+          "value": 2909
+        }
+      ]
+    },
+    {
+      "name": "maior_de_idade",
+      "values": [
+        {
+          "name": "Sim",
+          "value": 2085
+        },
+        {
+          "name": "Agendar Consulta",
+          "value": 29
+        },
+        {
+          "name": "Não",
+          "value": 133
+        },
+        {
+          "name": "Agendar consulta inicial",
+          "value": 7
+        },
+        {
+          "name": "Endereços",
+          "value": 18
+        },
+        {
+          "name": "Seja um Franqueado",
+          "value": 26
+        },
+        {
+          "name": "Início",
+          "value": 37
+        },
+        {
+          "name": "FRASE DE ABERTURA",
+          "value": 25
+        },
+        {
+          "name": "Procedimentos",
+          "value": 9
+        },
+        {
+          "name": "Agendar uma Avaliação",
+          "value": 38
+        },
+        {
+          "name": "Diferenciais",
+          "value": 8
+        },
+        {
+          "name": "Encontrar Unidade Próxima",
+          "value": 13
+        },
+        {
+          "name": "Nossos Pacientes",
+          "value": 13
+        },
+        {
+          "name": "Atendimento de crianças",
+          "value": 1
+        },
+        {
+          "name": "Quero agendar!",
+          "value": 5
+        },
+        {
+          "name": "Tratamentos odontológicos 🦷",
+          "value": 1
+        },
+        {
+          "name": "Clareamento Dental",
+          "value": 1
+        },
+        {
+          "name": "Quais procedimentos vocês fazem?",
+          "value": 1
+        },
+        {
+          "name": "Harmonização Orofacial",
+          "value": 2
+        },
+        {
+          "name": "Alinhador Transparente",
+          "value": 1
+        },
+        {
+          "name": "← Voltar",
+          "value": 8
+        },
+        {
+          "name": "Quais as redes sociais?",
+          "value": 4
+        },
+        {
+          "name": "Atendimento a crianças",
+          "value": 1
+        },
+        {
+          "name": "Quem Somos",
+          "value": 4
+        },
+        {
+          "name": "Jornada de agendamento",
+          "value": 2
+        },
+        {
+          "name": "Saiba mais sobre os dentistas",
+          "value": 2
+        },
+        {
+          "name": "Quanto custa o Oral Unic Align",
+          "value": 1
+        },
+        {
+          "name": "Unidades próximas de você",
+          "value": 1
+        },
+        {
+          "name": "Oi, eu?",
+          "value": 1
+        },
+        {
+          "name": "Quanto custa o implante dentário",
+          "value": 1
+        },
+        {
+          "name": "Quem são os dentistas?",
+          "value": 1
+        },
+        {
+          "name": "Meu nome",
+          "value": 1
+        },
+        {
+          "name": "Tratamentos odontológicos",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Pergunta se é cliente",
+      "values": [
+        {
+          "name": "Não",
+          "value": 1556
+        },
+        {
+          "name": "Sim",
+          "value": 226
+        },
+        {
+          "name": "FRASE DE ABERTURA",
+          "value": 3
+        },
+        {
+          "name": "Dayane Castro",
+          "value": 1
+        },
+        {
+          "name": "Agendar Consulta",
+          "value": 1
+        },
+        {
+          "name": "Encontrar Unidade Próxima",
+          "value": 1
+        },
+        {
+          "name": "Agendar uma Avaliação",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "api_lead",
+      "values": [
+        {
+          "name": "Lead capturado",
+          "value": 1350
+        }
+      ]
+    },
+    {
+      "name": "Passo 11 - Agendamentos - Seleciona Queixa",
+      "values": [
+        {
+          "name": "Dor",
+          "value": 126
+        },
+        {
+          "name": "Implante",
+          "value": 324
+        },
+        {
+          "name": "Estética",
+          "value": 75
+        },
+        {
+          "name": "Ortodontia",
+          "value": 104
+        },
+        {
+          "name": "Não desejo informar",
+          "value": 202
+        },
+        {
+          "name": "Prótese",
+          "value": 135
+        },
+        {
+          "name": "Checkup",
+          "value": 153
+        },
+        {
+          "name": "API_UNIDADE1",
+          "value": 3
+        },
+        {
+          "name": "Emergência",
+          "value": 93
+        },
+        {
+          "name": "Nova Iguacu id=313",
+          "value": 1
+        },
+        {
+          "name": "FRASE DE ABERTURA",
+          "value": 4
+        },
+        {
+          "name": "Sao Jose id=65",
+          "value": 1
+        },
+        {
+          "name": "Pocos de Caldas id=193",
+          "value": 1
+        },
+        {
+          "name": "Encantado id=390",
+          "value": 1
+        },
+        {
+          "name": "VIAMÃO id=407",
+          "value": 1
+        },
+        {
+          "name": "Vinhedo id=238",
+          "value": 1
+        },
+        {
+          "name": "Informar outro Endereço",
+          "value": 12
+        },
+        {
+          "name": "Sim!",
+          "value": 1
+        },
+        {
+          "name": "Alvorada id=294",
+          "value": 1
+        },
+        {
+          "name": "Praca da Arvore id=300",
+          "value": 1
+        },
+        {
+          "name": "Belem id=199",
+          "value": 1
+        },
+        {
+          "name": "Cuiaba id=207",
+          "value": 1
+        },
+        {
+          "name": "Primavera do Leste id=126",
+          "value": 1
+        },
+        {
+          "name": "Diadema id=167",
+          "value": 1
+        },
+        {
+          "name": "Alterar",
+          "value": 1
+        },
+        {
+          "name": "MOGI DAS CRUZES II id=413",
+          "value": 1
+        },
+        {
+          "name": "Procedimentos",
+          "value": 1
+        },
+        {
+          "name": "Butanta id=155",
+          "value": 2
+        },
+        {
+          "name": "Jaragua do Sul id=22",
+          "value": 1
+        },
+        {
+          "name": "Sao Jose dos Campos id=95",
+          "value": 1
+        },
+        {
+          "name": "Início",
+          "value": 1
+        },
+        {
+          "name": "BARBACENA id=251",
+          "value": 1
+        },
+        {
+          "name": "Sao Joao del Rei id=257",
+          "value": 1
+        },
+        {
+          "name": "Agendar uma Avaliação",
+          "value": 1
+        },
+        {
+          "name": "Petrolina id=239",
+          "value": 1
+        },
+        {
+          "name": "27-03-2025",
+          "value": 1
+        },
+        {
+          "name": "Encontrar Unidade Próxima",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "agendamento_realizado",
+      "values": [
+        {
+          "name": "Agendamento realizado",
+          "value": 767
+        }
+      ]
+    },
+    {
+      "name": "final_de_jornada",
+      "values": [
+        {
+          "name": "Final de jornada",
+          "value": 767
+        }
+      ]
+    },
+    {
+      "name": "Passo 13 - Agendamento - Resumo do Agendamento",
+      "values": [
+        {
+          "name": "Confirmar",
+          "value": 766
+        },
+        {
+          "name": "Alterar",
+          "value": 204
+        },
+        {
+          "name": "03-03-2025 08:30",
+          "value": 1
+        },
+        {
+          "name": "10-03-2025 10:30",
+          "value": 5
+        },
+        {
+          "name": "Informar outro Endereço",
+          "value": 1
+        },
+        {
+          "name": "26-03-2025 08:30",
+          "value": 2
+        },
+        {
+          "name": "06-03-2025 09:30",
+          "value": 1
+        },
+        {
+          "name": "04-03-2025",
+          "value": 1
+        },
+        {
+          "name": "05-03-2025 08:30",
+          "value": 1
+        },
+        {
+          "name": "Início",
+          "value": 2
+        },
+        {
+          "name": "Prótese",
+          "value": 2
+        },
+        {
+          "name": "14-03-2025 08:00",
+          "value": 1
+        },
+        {
+          "name": "FRASE DE ABERTURA",
+          "value": 9
+        },
+        {
+          "name": "12-03-2025 08:00",
+          "value": 1
+        },
+        {
+          "name": "06-03-2025 11:30",
+          "value": 1
+        },
+        {
+          "name": "07-03-2025 14:00",
+          "value": 1
+        },
+        {
+          "name": "07-03-2025 08:00",
+          "value": 1
+        },
+        {
+          "name": "Data e Hora",
+          "value": 1
+        },
+        {
+          "name": "19-03-2025 15:00",
+          "value": 1
+        },
+        {
+          "name": "03-10-2025 08:30",
+          "value": 1
+        },
+        {
+          "name": "14-03-2025 09:30",
+          "value": 1
+        },
+        {
+          "name": "17-03-2025 14:00",
+          "value": 1
+        },
+        {
+          "name": "18-03-2025 08:00",
+          "value": 1
+        },
+        {
+          "name": "29-03-2025 08:30",
+          "value": 1
+        },
+        {
+          "name": "21-03-2025 08:00",
+          "value": 1
+        },
+        {
+          "name": "21-03-2025 09:00",
+          "value": 1
+        },
+        {
+          "name": "11-04-2025 08:00",
+          "value": 1
+        },
+        {
+          "name": "28-03-2025 08:00",
+          "value": 3
+        },
+        {
+          "name": "24-03-2025 09:30",
+          "value": 1
+        },
+        {
+          "name": "25-03-2025 08:00",
+          "value": 2
+        },
+        {
+          "name": "26-03-2025 10:30",
+          "value": 1
+        },
+        {
+          "name": "Luis Antonio id=382",
+          "value": 1
+        },
+        {
+          "name": "27-03-2025 16:00",
+          "value": 1
+        },
+        {
+          "name": "28-03-2025 09:30",
+          "value": 1
+        },
+        {
+          "name": "31-03-2025 09:30",
+          "value": 1
+        },
+        {
+          "name": "31-03-2025 11:30",
+          "value": 1
+        },
+        {
+          "name": "28-03-2025 17:30",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}
